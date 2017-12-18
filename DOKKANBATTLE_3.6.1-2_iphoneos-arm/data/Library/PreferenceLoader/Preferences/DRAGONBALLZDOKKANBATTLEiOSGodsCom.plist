@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>entry</key>
+  <dict>
+    <key>bundle</key>
+    <string>DRAGONBALLZDOKKANBATTLEiOSGodsCom</string>
+    <key>cell</key>
+    <string>PSLinkCell</string>
+    <key>detail</key>
+    <string>DRAGONBALLZDOKKANBATTLEiOSGodsComListController</string>
+    <key>icon</key>
+    <string>DRAGONBALLZDOKKANBATTLEiOSGodsCom.png</string>
+    <key>isController</key>
+    <string>1</string>
+    <key>label</key>
+    <string>DRAGON BALL Z DOKKAN BATTLE Cheats</string>
+  </dict>
+</dict>
+</plist>

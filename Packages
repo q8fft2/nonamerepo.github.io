@@ -1,0 +1,14 @@
+Package: com.noname.dokkanbattle
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: NoName q8fft8@gmail.com
+Depends: /DOKKANBATTLE_3.6.1-2_iphoneos-arm.deb
+Filename: debs//<deb>
+Size: 8247074
+MD5sum: DC25A8138F6053A120FDC20B8A19CB24
+SHA1: C31038553E6B6292532E1FF946B3E830097054D0
+SHA256: 8C0B84F40C11C0DE9D06B9B771D5EB327A9726C00D7E2E2B97ED5DFCC6395121
+Section: Cheats
+Description: NoName repo
+Author: Yourname <email (put in <>)>
+Name: Dokkan Battle 3.6.1
